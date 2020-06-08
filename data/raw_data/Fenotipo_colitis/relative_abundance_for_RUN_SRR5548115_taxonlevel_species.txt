@@ -1,0 +1,49 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJNA50637
+#original_sample_description: Pouchitis tumor DNA sample from Pouch of a human male participant in the dbGaP study The Role of the Gut Microbiota in Ulcerative Colitis
+#run_id: SRR5548115
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 1000
+#nr_reads_sequenced: null
+#host_age: null
+#sex: Male
+#BMI: null
+#country: null
+#longitude: null
+#latitude: null
+#loaded_uid: 52680
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The bacteria that live in the gut are felt to play a key role in the health of the gastrointestinal tract. We will determine the role of the gut bacteria in the development of human inflammatory bowel disease through the use of state-of-the-art molecular biology techniques and advanced culture techniques
+ncbi_taxon_id	relative_abundance	scientific_name
+46506	29.9598	Bacteroides stercoris
+28116	20.3955	Bacteroides ovatus
+33038	16.0025	[Ruminococcus] gnavus
+853	8.90069	Faecalibacterium prausnitzii
+562	6.79265	Escherichia coli
+29361	5.3	Tyzzerella nexilis
+818	3.24889	Bacteroides thetaiotaomicron
+39491	3.0836	[Eubacterium] rectale
+1502	1.63025	Clostridium perfringens
+28135	0.35689	Prevotella oris
+261299	0.32251	Intestinibacter bartlettii
+658088	0.30887	Lachnospiraceae bacterium 9_1_43BFAA
+1308	0.29421	Streptococcus thermophilus
+150055	0.22385	Streptococcus lutetiensis
+33039	0.16824	[Ruminococcus] torques
+292800	0.15568	Flavonifractor plautii
+360807	0.14297	Roseburia inulinivorans
+29466	0.11864	Veillonella parvula
+658655	0.11589	Lachnospiraceae bacterium 1_4_56FAA
+552395	0.10639	Lachnospiraceae bacterium 4_1_37FAA
+665951	0.09866	Lachnospiraceae bacterium 8_1_57FAA
+1512	0.07495	[Clostridium] symbiosum
+1547	0.06275	Erysipelatoclostridium ramosum
+658089	0.03554	Lachnospiraceae bacterium 5_1_63FAA
+1531	0.03031	[Clostridium] clostridioforme
+729	0.0225	Haemophilus parainfluenzae
+649756	0.01475	Anaerostipes hadrus
+658082	0.01243	Lachnospiraceae bacterium 2_1_58FAA
+817	0.00811	Bacteroides fragilis
+28037	0.00478	Streptococcus mitis
+-1	2.0072	Unknown

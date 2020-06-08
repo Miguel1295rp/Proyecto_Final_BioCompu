@@ -1,0 +1,75 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJNA50637
+#original_sample_description: Pouchitis tumor DNA sample from Pouch of a human male participant in the dbGaP study The Role of the Gut Microbiota in Ulcerative Colitis
+#run_id: SRR5548110
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 1000
+#nr_reads_sequenced: null
+#host_age: null
+#sex: Male
+#BMI: null
+#country: null
+#longitude: null
+#latitude: null
+#loaded_uid: 52684
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The bacteria that live in the gut are felt to play a key role in the health of the gastrointestinal tract. We will determine the role of the gut bacteria in the development of human inflammatory bowel disease through the use of state-of-the-art molecular biology techniques and advanced culture techniques
+ncbi_taxon_id	relative_abundance	scientific_name
+33038	44.1243	[Ruminococcus] gnavus
+39491	13.6098	[Eubacterium] rectale
+46506	7.64009	Bacteroides stercoris
+853	7.39755	Faecalibacterium prausnitzii
+818	6.73604	Bacteroides thetaiotaomicron
+28116	5.30061	Bacteroides ovatus
+562	4.82224	Escherichia coli
+29361	3.14977	Tyzzerella nexilis
+1502	1.20276	Clostridium perfringens
+1308	0.63082	Streptococcus thermophilus
+33039	0.48882	[Ruminococcus] torques
+729	0.48008	Haemophilus parainfluenzae
+658088	0.20677	Lachnospiraceae bacterium 9_1_43BFAA
+33035	0.20063	Blautia producta
+665951	0.19469	Lachnospiraceae bacterium 8_1_57FAA
+360807	0.16938	Roseburia inulinivorans
+658089	0.16093	Lachnospiraceae bacterium 5_1_63FAA
+292800	0.14115	Flavonifractor plautii
+33037	0.10291	Anaerococcus vaginalis
+501571	0.0967	Butyricicoccus pullicaecorum
+1318	0.08895	Streptococcus parasanguinis
+166486	0.08629	Roseburia intestinalis
+28135	0.07651	Prevotella oris
+649756	0.06816	Anaerostipes hadrus
+742723	0.06785	Lachnospiraceae bacterium 2_1_46FAA
+1351	0.05979	Enterococcus faecalis
+36841	0.05472	Terrisporobacter glycolicus
+1287640	0.04817	Anaerococcus obesiensis
+1304	0.0469	Streptococcus salivarius
+28037	0.03442	Streptococcus mitis
+29466	0.01719	Veillonella parvula
+1077464	0.01679	Streptococcus tigurinus
+55565	0.01586	Actinomyces graevenitzii
+457422	0.01561	Erysipelotrichaceae bacterium 2_2_44A
+208479	0.01035	[Clostridium] bolteae
+45634	0.01014	Streptococcus cristatus
+68892	0.0094	Streptococcus infantis
+1379	0.00835	Gemella haemolysans
+1512	0.00717	[Clostridium] symbiosum
+33033	0.00622	Parvimonas micra
+1531	0.0048	[Clostridium] clostridioforme
+573	0.00436	Klebsiella pneumoniae
+552395	0.00428	Lachnospiraceae bacterium 4_1_37FAA
+658657	0.00387	Erysipelotrichaceae bacterium 21_3
+457421	0.00374	Clostridiales bacterium 1_7_47FAA
+261299	0.00309	Intestinibacter bartlettii
+45634	0.00307	Streptococcus cristatus
+39778	0.00291	Veillonella dispar
+658083	0.00247	Lachnospiraceae bacterium 6_1_63FAA
+216816	0.00194	Bifidobacterium longum
+658655	0.00113	Lachnospiraceae bacterium 1_4_56FAA
+113107	0.00113	Streptococcus australis
+84135	0.00096	Gemella sanguinis
+658087	0.00051	Lachnospiraceae bacterium 7_1_58FAA
+1358	0.00047	Lactococcus lactis
+40520	0.00032	Blautia obeum
+-1	2.3561	Unknown

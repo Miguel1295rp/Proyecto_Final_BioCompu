@@ -1,0 +1,94 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJNA50637
+#original_sample_description: Human metagenome DNA sample from Ileostomy of a male participant in the dbGaP study The Role of the Gut Microbiota in Ulcerative Colitis
+#run_id: SRR5548106
+#experiment_type: Amplicon
+#instrument_model: 454 GS FLX Titanium
+#nr_reads_sequenced: null
+#host_age: null
+#sex: Male
+#BMI: null
+#country: null
+#longitude: null
+#latitude: null
+#loaded_uid: 50870
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The bacteria that live in the gut are felt to play a key role in the health of the gastrointestinal tract. We will determine the role of the gut bacteria in the development of human inflammatory bowel disease through the use of state-of-the-art molecular biology techniques and advanced culture techniques
+ncbi_taxon_id	relative_abundance	scientific_name
+589436	0.292665	Prevotella fusca
+437898	0.0228645	Sutterella parvirubra
+86265	0.00457289	Pseudomonas thivervalensis
+28129	0.00457289	Prevotella denticola
+587753	0.00457289	Pseudomonas chlororaphis
+200	0.0137187	Campylobacter curvus
+821	0.20578	Bacteroides vulgatus
+1261	0.0914578	Peptostreptococcus anaerobius
+282125	0.114322	Sutterella sanguinus
+329	0.0320102	Ralstonia pickettii
+76123	0.384123	Prevotella enoeca
+1566822	0.00457289	Flavobacterium sp. YIM 97465
+165179	0.685934	Prevotella copri
+660537	0.00457289	Paraburkholderia acidipaludis
+70775	0.0228645	Pseudomonas plecoglossicida
+357276	0.00457289	Bacteroides dorei
+291645	0.00457289	Bacteroides nordii
+33036	0.0365831	Anaerococcus tetradius
+1338	0.320102	Streptococcus intermedius
+28114	0.0640205	Porphyromonas levii
+1529	0.0320102	Clostridium cadaveris
+54007	0.00914578	Anaerococcus octavius
+287	0.0228645	Pseudomonas aeruginosa
+504487	0.342967	Jejuia pallidilutea
+185294	0.00914578	Prevotella paludivivens
+29363	0.00914578	Clostridium paraputrificum
+294	0.0182916	Pseudomonas fluorescens
+246787	0.00457289	Bacteroides cellulosilyticus
+143393	0.00914578	[Eubacterium] sulci
+169292	0.00457289	Corynebacterium aurimucosum
+1336	0.00914578	Streptococcus equi
+817	0.00457289	Bacteroides fragilis
+228604	0.114322	Prevotella salivae
+114528	0.0594476	Mogibacterium neglectum
+470565	0.00914578	Prevotella histicola
+454154	0.00914578	Paraprevotella clara
+28127	0.00457289	Prevotella buccalis
+1383	0.0274374	Atopobium rimae
+33031	3.62173	Peptoniphilus lacrimalis
+54005	0.00914578	Peptoniphilus harei
+39498	0.0137187	[Eubacterium] yurii
+234908	7.11085	Sutterella stercoricanis
+589437	0.34754	Prevotella scopos
+28104	0.00457289	Mesorhizobium huakuii
+1341	0.00457289	Streptococcus ratti
+839	2.94494	Prevotella ruminicola
+185293	0.00457289	Prevotella oryzae
+228603	0.00914578	Prevotella shahii
+77768	0.0320102	Prevotella albensis
+36874	0.0228645	Porphyromonas cangingivalis
+824	0.114322	Campylobacter gracilis
+321327	0.187489	Synechococcus sp. JA-3-3Ab
+52227	0.0685934	Prevotella dentalis
+28125	0.461862	Prevotella bivia
+755171	0.00457289	Peptoniphilus tyrrelliae
+310514	1.91147	Prevotella multisaccharivorax
+818	0.00914578	Bacteroides thetaiotaomicron
+28117	0.00914578	Alistipes putredinis
+28135	29.5729	Prevotella oris
+439703	1.66911	Prevotella maculosa
+851	44.6817	Fusobacterium nucleatum
+28134	1.04262	Prevotella oralis
+309120	0.0274374	Dialister micraerophilus
+242750	0.0960307	Prevotella bergensis
+562	0.0503018	Escherichia coli
+77095	0.0137187	Prevotella bryantii
+194867	0.00914578	Sphingomonas sp. ATCC 31555
+28133	0.301811	Prevotella nigrescens
+840	0.128041	Prevotella loescheii
+28128	0.0137187	Prevotella corporis
+28116	0.00457289	Bacteroides ovatus
+218538	0.0182916	Dialister invisus
+33029	0.00457289	Anaerococcus hydrogenalis
+85831	0.00457289	Bacteroides acidifaciens
+1159213	0.00457289	Peptostreptococcus canis
+-1	2.4465	Unknown

@@ -1,0 +1,50 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJNA50637
+#original_sample_description: Human metagenome DNA sample from Pouch of a male participant in the dbGaP study The Role of the Gut Microbiota in Ulcerative Colitis
+#run_id: SRR060115
+#experiment_type: Metagenomics
+#instrument_model: Illumina Genome Analyzer II
+#nr_reads_sequenced: 14636069
+#host_age: null
+#sex: Male
+#BMI: null
+#country: null
+#longitude: null
+#latitude: null
+#loaded_uid: 52671
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The bacteria that live in the gut are felt to play a key role in the health of the gastrointestinal tract. We will determine the role of the gut bacteria in the development of human inflammatory bowel disease through the use of state-of-the-art molecular biology techniques and advanced culture techniques
+ncbi_taxon_id	relative_abundance	scientific_name
+28116	32.4584	Bacteroides ovatus
+46506	20.2026	Bacteroides stercoris
+562	13.6503	Escherichia coli
+818	11.5919	Bacteroides thetaiotaomicron
+1492	2.78093	Clostridium butyricum
+154046	1.61017	Hungatella hathewayi
+33038	1.60118	[Ruminococcus] gnavus
+154288	1.36685	Turicibacter sanguinis
+358743	1.11319	[Clostridium] citroniae
+208479	0.85789	[Clostridium] bolteae
+29361	0.79324	Tyzzerella nexilis
+729	0.21053	Haemophilus parainfluenzae
+501571	0.1374	Butyricicoccus pullicaecorum
+1496	0.11992	Clostridioides difficile
+1512	0.1018	[Clostridium] symbiosum
+36841	0.08128	Terrisporobacter glycolicus
+860	0.06544	Fusobacterium periodonticum
+1318	0.05475	Streptococcus parasanguinis
+33039	0.02562	[Ruminococcus] torques
+658088	0.02245	Lachnospiraceae bacterium 9_1_43BFAA
+333367	0.02214	[Clostridium] asparagiforme
+28037	0.02015	Streptococcus mitis
+39778	0.01824	Veillonella dispar
+35833	0.01352	Bilophila wadsworthia
+573	0.01177	Klebsiella pneumoniae
+1547	0.00771	Erysipelatoclostridium ramosum
+29466	0.00655	Veillonella parvula
+45634	0.00646	Streptococcus cristatus
+550	0.00448	Enterobacter cloacae
+539	0.00362	Eikenella corrodens
+113107	0.00085	Streptococcus australis
+-1	11.0387	Unknown

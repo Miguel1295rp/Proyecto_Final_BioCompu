@@ -1,0 +1,39 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJNA50637
+#original_sample_description: Human metagenome DNA sample from Pouch of a male participant in the dbGaP study The Role of the Gut Microbiota in Ulcerative Colitis
+#run_id: SRR060116
+#experiment_type: Metagenomics
+#instrument_model: Illumina Genome Analyzer II
+#nr_reads_sequenced: 6924379
+#host_age: null
+#sex: Male
+#BMI: null
+#country: null
+#longitude: null
+#latitude: null
+#loaded_uid: 52669
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The bacteria that live in the gut are felt to play a key role in the health of the gastrointestinal tract. We will determine the role of the gut bacteria in the development of human inflammatory bowel disease through the use of state-of-the-art molecular biology techniques and advanced culture techniques
+ncbi_taxon_id	relative_abundance	scientific_name
+46506	23.1363	Bacteroides stercoris
+28116	22.0941	Bacteroides ovatus
+562	11.0263	Escherichia coli
+39491	10.0618	[Eubacterium] rectale
+818	9.80642	Bacteroides thetaiotaomicron
+33038	6.18661	[Ruminococcus] gnavus
+729	3.33529	Haemophilus parainfluenzae
+360807	1.60557	Roseburia inulinivorans
+29361	1.07369	Tyzzerella nexilis
+154288	1.05231	Turicibacter sanguinis
+1492	1.01487	Clostridium butyricum
+658089	0.68043	Lachnospiraceae bacterium 5_1_63FAA
+261299	0.5536	Intestinibacter bartlettii
+649756	0.40993	Anaerostipes hadrus
+658088	0.15403	Lachnospiraceae bacterium 9_1_43BFAA
+1512	0.06031	[Clostridium] symbiosum
+658659	0.05276	Erysipelotrichaceae bacterium 3_1_53
+28037	0.04086	Streptococcus mitis
+1531	0.01814	[Clostridium] clostridioforme
+658083	0.0178	Lachnospiraceae bacterium 6_1_63FAA
+-1	7.61891	Unknown

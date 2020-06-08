@@ -1,0 +1,173 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJNA50637
+#original_sample_description: Pouchitis tumor DNA sample from Pouch of a human male participant in the dbGaP study The Role of the Gut Microbiota in Ulcerative Colitis
+#run_id: SRR5548112
+#experiment_type: Amplicon
+#instrument_model: Illumina MiSeq
+#nr_reads_sequenced: null
+#host_age: null
+#sex: Male
+#BMI: null
+#country: null
+#longitude: null
+#latitude: null
+#loaded_uid: 50872
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The bacteria that live in the gut are felt to play a key role in the health of the gastrointestinal tract. We will determine the role of the gut bacteria in the development of human inflammatory bowel disease through the use of state-of-the-art molecular biology techniques and advanced culture techniques
+ncbi_taxon_id	relative_abundance	scientific_name
+337315	0.000946298	Candidatus Peptoniphilus massiliensis
+29360	0.0170334	Cellulosilyticum lentocellum
+204516	0.270641	Bacteroides massiliensis
+1671366	0.0018926	Ruminococcus sp. DSM 100440
+850	0.00662408	Fusobacterium mortiferum
+28129	0.000946298	Prevotella denticola
+1547	0.0813816	Erysipelatoclostridium ramosum
+180164	0.0104093	Blautia schinkii
+282125	0.000946298	Sutterella sanguinus
+1352	0.00378519	Enterococcus faecium
+1541	0.21481	Terrisporobacter mayombei
+1113821	0.000946298	Microbulbifer sp. NBRC 101764
+37734	0.000946298	Enterococcus casseliflavus
+1561	0.0123019	Clostridium baratii
+1490	0.0018926	Paraclostridium bifermentans
+301302	0.00378519	Roseburia faecis
+871324	0.00283889	Bacteroides stercorirosoris
+36835	0.0104093	[Clostridium] colinum
+714	0.00473149	Aggregatibacter actinomycetemcomitans
+82801	0.000946298	Desemzia incerta
+357276	0.0340667	Bacteroides dorei
+328814	0.0274426	Alistipes shahii
+179628	0.0018926	Clostridium colicanis
+1343	0.00473149	Streptococcus vestibularis
+89014	0.459901	Blautia luti
+1550	0.00662408	Clostridium subterminale
+1297750	0.611308	Bacteroides luti
+291644	0.000946298	Bacteroides salyersiae
+246787	0.00662408	Bacteroides cellulosilyticus
+143393	0.0018926	[Eubacterium] sulci
+1303	0.0123019	Streptococcus oralis
+536633	0.427727	Blautia glucerasea
+39778	0.0170334	Veillonella dispar
+97253	0.0160871	Eubacterium plexicaudatum
+58134	0.0018926	[Desulfotomaculum] guttoideum
+39486	0.0018926	Dorea formicigenerans
+1535	1.48096	[Clostridium] leptum
+853	2.07145	Faecalibacterium prausnitzii
+1335	0.00567779	Streptococcus equinus
+861	0.00378519	Fusobacterium ulcerans
+234908	0.0160871	Sutterella stercoricanis
+69825	0.0018926	[Clostridium] indolis
+823	0.000946298	Parabacteroides distasonis
+1737	0.409747	[Eubacterium] tenue
+61635	0.00283889	Acholeplasma brassicae
+860	0.000946298	Fusobacterium periodonticum
+197345	0.000946298	Psychroflexus tropicus
+729	1.02389	Haemophilus parainfluenzae
+204038	0.0170334	Dickeya dadantii
+28119	0.00378519	Bacteroides zoogleoformans
+29466	0.0141945	Veillonella parvula
+36850	0.308493	Clostridium quinii
+208479	0.00378519	[Clostridium] bolteae
+739	0.000946298	Aggregatibacter segnis
+732	0.0018926	Aggregatibacter aphrophilus
+33033	0.00283889	Parvimonas micra
+358743	0.0160871	[Clostridium] citroniae
+1322	0.18926	Blautia hansenii
+151276	0.000946298	Bacteroides coprosuis
+856	0.0018926	Fusobacterium varium
+38986	0.0018926	Acholeplasma palmae
+187327	0.00473149	Acidaminococcus intestini
+33037	0.00946298	Anaerococcus vaginalis
+36847	0.044476	[Clostridium] neopropionicum
+28117	0.000946298	Alistipes putredinis
+1308	0.176958	Streptococcus thermophilus
+39494	0.000946298	[Eubacterium] tortuosum
+28111	0.000946298	Bacteroides eggerthii
+669	0.000946298	Vibrio harveyi
+46124	0.0018926	Granulicatella adiacens
+28037	0.0738112	Streptococcus mitis
+31971	0.0842205	[Eubacterium] dolichum
+28135	0.174119	Prevotella oris
+39484	0.0123019	Eubacterium desmolans
+1502	1.06742	Clostridium perfringens
+52694	0.000946298	Acetobacterium wieringae
+47678	0.0416371	Bacteroides caccae
+46206	0.000946298	Pseudobutyrivibrio ruminis
+105841	0.0123019	Anaerostipes caccae
+1307	0.000946298	Streptococcus suis
+36745	0.0018926	Clostridium saccharoperbutylacetonicum
+52226	0.000946298	Mitsuokella multacida
+1559	0.771233	Clostridium tertium
+28161	0.0104093	Bisgaard Taxon 7
+46228	0.0170334	Ruminococcus lactaris
+574375	0.0018926	Bacillus gaemokensis
+390877	0.0018926	Nisaea denitrificans
+821	0.0113556	Bacteroides vulgatus
+137732	0.000946298	Granulicatella elegans
+1532	4.21954	Blautia coccoides
+1496	0.00283889	Clostridioides difficile
+36834	0.0331204	Clostridium celatum
+33039	0.000946298	[Ruminococcus] torques
+1267	0.000946298	Clostridium ventriculi
+28901	0.000946298	Salmonella enterica
+1110546	0.00283889	Veillonella tobetsuensis
+1356	0.000946298	Enterococcus sulfureus
+88431	0.00283889	Dorea longicatena
+29363	0.0643482	Clostridium paraputrificum
+820	0.0264963	Bacteroides uniformis
+1605	0.0359593	Lactobacillus animalis
+1336	0.00473149	Streptococcus equi
+817	0.491128	Bacteroides fragilis
+1583	0.000946298	Weissella confusa
+84026	0.0104093	[Clostridium] methylpentosum
+84030	0.00946298	[Clostridium] saccharolyticum
+33031	0.000946298	Peptoniphilus lacrimalis
+40520	0.148569	Blautia obeum
+39777	0.0170334	Veillonella atypica
+329854	0.00283889	Bacteroides intestinalis
+1530	0.000946298	Clostridium carnis
+301301	0.0018926	Roseburia hominis
+214853	0.000946298	Anaerofustis stercorihominis
+35701	0.00473149	Heliobacterium modesticaldum
+28118	0.000946298	Odoribacter splanchnicus
+691816	0.000946298	Bacteroides rodentium
+29347	0.000946298	[Clostridium] scindens
+1504	0.000946298	Clostridium septicum
+360807	0.0416371	Roseburia inulinivorans
+645466	0.0018926	Anaerostipes butyraticus
+623	0.0208185	Shigella flexneri
+288965	0.00757038	[Clostridium] clariflavum
+1313	0.000946298	Streptococcus pneumoniae
+86103	0.000946298	Idiomarina zobellii
+1512	0.000946298	[Clostridium] symbiosum
+371601	2.30897	Bacteroides xylanisolvens
+39491	0.0321741	[Eubacterium] rectale
+818	1.68157	Bacteroides thetaiotaomicron
+35519	0.000946298	Mogibacterium timidum
+33038	20.7637	[Ruminococcus] gnavus
+46506	2.37048	Bacteroides stercoris
+1492	0.00946298	Clostridium butyricum
+1302	0.000946298	Streptococcus gordonii
+703	0.00283889	Plesiomonas shigelloides
+472113	0.0208185	Geofilum rubicundum
+28446	0.00473149	[Clostridium] propionicum
+439703	0.000946298	Prevotella maculosa
+851	0.00283889	Fusobacterium nucleatum
+53446	0.000946298	Streptomyces cinnamoneus
+180311	0.0832742	Hespellia stercorisuis
+2724	0.114502	Hirschia baltica
+1358	0.00662408	Lactococcus lactis
+562	1.2898	Escherichia coli
+1304	0.723918	Streptococcus salivarius
+341225	0.0141945	[Clostridium] saccharogumia
+28116	9.11568	Bacteroides ovatus
+166485	0.0463686	Caminicella sporogenes
+33029	0.00473149	Anaerococcus hydrogenalis
+85831	0.0018926	Bacteroides acidifaciens
+1379	0.00757038	Gemella haemolysans
+261299	0.0132482	Intestinibacter bartlettii
+-1	44.1561	Unknown
+1465754	0.000946298	Alistipes timonensis
+107580	0.00473149	Bacteroides sp. CIP103040
+29348	1.65697	[Clostridium] spiroforme

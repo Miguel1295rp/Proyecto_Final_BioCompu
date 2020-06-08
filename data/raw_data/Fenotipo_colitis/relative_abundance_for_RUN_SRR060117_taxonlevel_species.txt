@@ -1,0 +1,48 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJNA50637
+#original_sample_description: Human metagenome DNA sample from Pouch of a male participant in the dbGaP study The Role of the Gut Microbiota in Ulcerative Colitis
+#run_id: SRR060117
+#experiment_type: Metagenomics
+#instrument_model: Illumina Genome Analyzer II
+#nr_reads_sequenced: 15483970
+#host_age: null
+#sex: Male
+#BMI: null
+#country: null
+#longitude: null
+#latitude: null
+#loaded_uid: 52673
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The bacteria that live in the gut are felt to play a key role in the health of the gastrointestinal tract. We will determine the role of the gut bacteria in the development of human inflammatory bowel disease through the use of state-of-the-art molecular biology techniques and advanced culture techniques
+ncbi_taxon_id	relative_abundance	scientific_name
+562	47.2773	Escherichia coli
+46506	9.62876	Bacteroides stercoris
+818	8.0864	Bacteroides thetaiotaomicron
+28116	6.38893	Bacteroides ovatus
+457396	6.0741	Clostridium sp. 7_2_43FAA
+1308	3.91036	Streptococcus thermophilus
+29361	3.85003	Tyzzerella nexilis
+39491	3.51391	[Eubacterium] rectale
+729	1.98562	Haemophilus parainfluenzae
+360807	1.74179	Roseburia inulinivorans
+33038	1.7163	[Ruminococcus] gnavus
+1502	1.5532	Clostridium perfringens
+658088	1.08117	Lachnospiraceae bacterium 9_1_43BFAA
+1492	0.5764	Clostridium butyricum
+150055	0.41395	Streptococcus lutetiensis
+33039	0.28452	[Ruminococcus] torques
+261299	0.07013	Intestinibacter bartlettii
+726	0.06934	Haemophilus haemolyticus
+727	0.03868	Haemophilus influenzae
+860	0.02509	Fusobacterium periodonticum
+154288	0.02209	Turicibacter sanguinis
+29466	0.02153	Veillonella parvula
+1304	0.01979	Streptococcus salivarius
+658083	0.01757	Lachnospiraceae bacterium 6_1_63FAA
+208479	0.01497	[Clostridium] bolteae
+28135	0.01366	Prevotella oris
+658082	0.01305	Lachnospiraceae bacterium 2_1_58FAA
+1318	0.00837	Streptococcus parasanguinis
+658659	0.00715	Erysipelotrichaceae bacterium 3_1_53
+-1	1.57581	Unknown
