@@ -1,0 +1,196 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has healthy
+#run_id: ERR2092016
+#experiment_type: Amplicon
+#instrument_model: Illumina MiSeq
+#nr_reads_sequenced: 29150
+#host_age: 18
+#sex: Female
+#BMI: 20.87
+#country: United States of America
+#longitude: -117.2
+#latitude: 32.9
+#loaded_uid: 37277
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+1755629	0.00433388	Victivallis sp. MC_44
+328814	0.21236	Alistipes shahii
+341225	0.00433388	[Clostridium] saccharogumia
+1506	0.00433388	Clostridium sp.
+574930	0.00433388	Parabacteroides gordonii
+1404	0.00433388	Bacillus megaterium
+729	0.572072	Haemophilus parainfluenzae
+180164	0.0130016	Blautia schinkii
+39778	0.0910115	Veillonella dispar
+185300	0.00433388	Paludibacter propionicigenes
+39489	0.00433388	Clostridium moniliforme
+33035	0.0910115	Blautia producta
+33069	0.00433388	Pseudomonas viridiflava
+817	0.372714	Bacteroides fragilis
+351091	0.741094	Oscillibacter valericigenes
+1510	0.0130016	[Clostridium] stercorarium
+290053	0.00433388	Bacteroides helcogenes
+1512	0.073676	[Clostridium] symbiosum
+69825	1.72489	[Clostridium] indolis
+84030	0.125683	[Clostridium] saccharolyticum
+35785	0.00433388	Clostridium maximum
+43131	0.0130016	Tissierella praeacuta
+626930	0.169021	Bacteroides fluxus
+358742	0.00433388	[Clostridium] aldenense
+40214	0.00433388	Acinetobacter johnsonii
+28901	0.00433388	Salmonella enterica
+151276	0.00433388	Bacteroides coprosuis
+115979	0.0216694	Bacillus nealsonii
+28037	0.0476727	Streptococcus mitis
+97253	0.00866776	Eubacterium plexicaudatum
+310297	0.0130016	Bacteroides plebeius
+39497	0.00433388	Eubacterium xylanophilum
+39485	1.63387	[Eubacterium] eligens
+169435	0.104013	Anaerotruncus colihominis
+288965	0.00433388	[Clostridium] clariflavum
+1308	0.264367	Streptococcus thermophilus
+1925021	0.00433388	Unknown
+1223514	0.00433388	Corynebacterium humireducens
+329854	0.0260033	Bacteroides intestinalis
+871324	0.00866776	Bacteroides stercorirosoris
+905	0.00433388	Acidaminococcus fermentans
+454155	0.00433388	Paraprevotella xylaniphila
+218538	0.00433388	Dialister invisus
+1134405	0.00866776	Melioribacter roseus
+371601	0.073676	Bacteroides xylanisolvens
+357276	0.0216694	Bacteroides dorei
+552810	0.00433388	Dehalogenimonas lykanthroporepellens
+871325	0.00433388	Bacteroides faecichinchillae
+1515	0.203692	Ruminiclostridium thermocellum
+1755607	0.0260033	Bacteroides sp. MC_16
+140626	0.00433388	Lachnobacterium bovis
+1114008	0.00433388	Lactobacillus sp. NBRC 107185
+39490	0.0260033	Eubacterium ramulus
+52787	0.0130016	Anaerofilum pentosovorans
+1379	0.00433388	Gemella haemolysans
+820	5.53437	Bacteroides uniformis
+29348	0.00866776	[Clostridium] spiroforme
+1428	0.00433388	Bacillus thuringiensis
+732242	0.0303372	Bacteroides paurosaccharolyticus
+376804	0.0780099	Bacteroides barnesiae
+46506	35.1088	Bacteroides stercoris
+1313	0.0130016	Streptococcus pneumoniae
+410072	0.108347	Coprococcus comes
+86664	0.0130016	Bacillus flexus
+1547	0.00433388	Erysipelatoclostridium ramosum
+671267	0.00433388	Bacteroides sartorii
+1465754	0.0433388	Alistipes timonensis
+1520	0.00866776	Clostridium beijerinckii
+29370	0.00866776	[Clostridium] sphenoides
+1161942	0.0130016	Ruminococcus champanellensis
+84026	0.0130016	[Clostridium] methylpentosum
+1495	0.00866776	Clostridium cylindrosporum
+29346	0.00433388	[Clostridium] paradoxum
+1264	2.26662	Ruminococcus albus
+821	5.59504	Bacteroides vulgatus
+132919	0.00433388	Rhodococcus jostii
+570161	0.0650082	Marinifilum fragile
+28446	0.00433388	[Clostridium] propionicum
+1535	0.0173355	[Clostridium] leptum
+1265	0.0520066	Ruminococcus flavefaciens
+28118	1.2785	Odoribacter splanchnicus
+103892	0.00433388	Veillonella ratti
+420412	0.00433388	Clostridium tepidiprofundi
+47678	1.73355	Bacteroides caccae
+840	0.00433388	Prevotella loescheii
+839	0.0130016	Prevotella ruminicola
+28111	0.0216694	Bacteroides eggerthii
+53443	0.0130016	Blautia hydrogenotrophica
+882211	0.00433388	Pseudomonas deceptionensis
+885581	0.00433388	Desulfosporosinus acidiphilus
+387661	0.00433388	Parabacteroides johnsonii
+28117	2.22762	Alistipes putredinis
+146817	0.00433388	Dendrosporobacter quercicolus
+1358	0.00433388	Lactococcus lactis
+84112	0.0173355	Eggerthella lenta
+39484	0.0390049	Eubacterium desmolans
+328813	1.03146	Alistipes onderdonkii
+253245	0.00433388	Owenweeksia hongkongensis
+239935	0.0173355	Akkermansia muciniphila
+28130	0.00433388	Prevotella disiens
+35833	0.0780099	Bilophila wadsworthia
+1532	0.00866776	Blautia coccoides
+39486	0.0650082	Dorea formicigenerans
+536633	0.715091	Blautia glucerasea
+626937	0.0260033	Christensenella minuta
+881	0.00866776	Desulfovibrio vulgaris
+-1	12.8326	Unknown
+415956	0.00433388	Sphingobacterium composti Yoo et al. 2007
+397865	0.0216694	Barnesiella viscericola
+166486	0.0216694	Roseburia intestinalis
+823	0.858109	Parabacteroides distasonis
+29356	0.333709	Clostridium chartatabidum
+40518	1.3435	Ruminococcus bromii
+1307	0.0173355	Streptococcus suis
+261299	0.42472	Intestinibacter bartlettii
+818	1.78123	Bacteroides thetaiotaomicron
+33043	1.38251	Coprococcus eutactus
+208479	0.0346711	[Clostridium] bolteae
+165179	0.0780099	Prevotella copri
+645466	0.0303372	Anaerostipes butyraticus
+287	0.00433388	Pseudomonas aeruginosa
+1735	0.00433388	Holdemanella biformis
+122355	0.00433388	Pseudomonas psychrophila
+29375	0.125683	[Clostridium] xylanolyticum
+39493	0.00433388	Clostridium tarantellae
+1755626	6.6135	Faecalibacterium sp. MC_41
+2173	0.00433388	Methanobrevibacter smithii
+76517	0.00433388	Campylobacter hominis
+105841	0.0346711	Anaerostipes caccae
+73919	0.00433388	Thermaerobacter marianensis
+454154	0.00433388	Paraprevotella clara
+43675	0.00866776	Rothia mucilaginosa
+876	0.00866776	Desulfovibrio desulfuricans
+1507	0.0130016	Clostridium sp. ATCC 29733
+39492	0.0173355	[Eubacterium] siraeum
+338188	0.00433388	Bacteroides finegoldii
+39491	0.0173355	[Eubacterium] rectale
+246787	0.0303372	Bacteroides cellulosilyticus
+253239	0.00433388	Ethanoligenens harbinense
+78342	0.00433388	Bifidobacterium gallicum
+29466	0.00866776	Veillonella parvula
+1660	0.0130016	Actinomyces odontolyticus
+1311	0.00433388	Streptococcus agalactiae
+589436	0.00433388	Prevotella fusca
+187327	0.195025	Acidaminococcus intestini
+58180	0.00433388	Desulfovibrio alaskensis
+133453	0.00433388	Caldilinea aerophila
+487175	1.01846	Parasutterella excrementihominis
+291645	0.00433388	Bacteroides nordii
+33039	0.00866776	[Ruminococcus] torques
+39496	0.104013	Eubacterium ventriosum
+40519	0.277368	Ruminococcus callidus
+44749	0.186357	Sporobacter termitidis
+187145	0.0216694	Caldithrix abyssi
+46228	0.0173355	Ruminococcus lactaris
+52773	0.00433388	Actinomyces meyeri
+46503	1.3045	Parabacteroides merdae
+310298	0.0130016	Bacteroides coprocola
+33953	0.00433388	Clostridium aminobutyricum
+28108	0.00433388	Alteromonas macleodii
+29363	0.00866776	Clostridium paraputrificum
+437898	0.00433388	Sutterella parvirubra
+1527	0.00866776	Anaerocolumna aminovalerica
+1303	0.0216694	Streptococcus oralis
+39488	0.0130016	[Eubacterium] hallii
+204516	0.0216694	Bacteroides massiliensis
+495	0.00433388	Neisseria elongata
+301301	0.528734	Roseburia hominis
+33038	0.0173355	[Ruminococcus] gnavus
+1071880	0.00433388	Sphingobacterium sp. CCBAU 10953
+1304	0.00866776	Streptococcus salivarius
+267818	0.00433388	Lactobacillus kefiranofaciens
+2026	0.00433388	Thermoactinomyces vulgaris
+40520	1.19182	Blautia obeum
+28116	5.58637	Bacteroides ovatus
+28127	0.00433388	Prevotella buccalis
+214856	0.104013	Alistipes finegoldii
+1492	0.00433388	Clostridium butyricum
