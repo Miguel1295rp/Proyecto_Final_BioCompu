@@ -1,0 +1,113 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB6070
+#original_sample_description: Human stool sample
+#run_id: ERR479065
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2000
+#nr_reads_sequenced: 12215640
+#host_age: 63
+#sex: Male
+#BMI: 25
+#country: France
+#longitude: null
+#latitude: null
+#loaded_uid: 29738
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: Several bacterial species have been implicated in the development of colorectal carcinoma (CRC), but CRC-associated changes of fecal microbiota and their potential for cancer screening remain to be explored. Here we used metagenomic sequencing of fecal samples to identify taxonomic markers that distinguished CRC patients from tumor-free controls in a study population of 156 participants. Accuracy of metagenomic CRC detection was similar to the standard fecal occult blood test (FOBT) and when both approaches were combined, sensitivity improved >45% relative to the FOBT while maintaining its specificity. Accuracy of metagenomic CRC detection did not differ significantly between early and late-stage cancer and could be validated in independent patient and control populations (N=335) from different countries. CRC-associated changes in the fecal microbiome at least partially reflected microbial community composition at the tumor itself, indicating that observed gene pool differences may reveal tumor-related host-microbe interactions. Indeed, we deduced a metabolic shift from fiber degradation in controls to utilization of host carbohydrates and amino acids in CRC patients accompanied by an increase of lipopolysaccharide metabolism. 
+ncbi_taxon_id	relative_abundance	scientific_name
+45851	31.4852	Butyrivibrio crossotus
+2173	10.3071	Methanobrevibacter smithii
+39492	5.15743	[Eubacterium] siraeum
+853	5.09696	Faecalibacterium prausnitzii
+1351	4.15366	Enterococcus faecalis
+53345	4.05956	Enterococcus durans
+165179	3.99987	Prevotella copri
+626940	3.12338	Phascolarctobacterium succinatutens
+39485	2.56525	[Eubacterium] eligens
+40520	1.58527	Blautia obeum
+821	1.45383	Bacteroides vulgatus
+1735	1.4352	Holdemanella biformis
+39491	1.2556	[Eubacterium] rectale
+76122	1.11708	Alloprevotella tannerae
+33039	1.08216	[Ruminococcus] torques
+457412	1.05978	Ruminococcus sp. 5_1_39BFAA
+74426	0.90379	Collinsella aerofaciens
+39488	0.78505	[Eubacterium] hallii
+239935	0.76646	Akkermansia muciniphila
+328814	0.75163	Alistipes shahii
+28133	0.65408	Prevotella nigrescens
+88431	0.58593	Dorea longicatena
+1363	0.51401	Lactococcus garvieae
+751585	0.47114	Coprococcus sp. ART55/1
+1358	0.46714	Lactococcus lactis
+936375	0.43411	Mogibacterium sp. CM50
+363265	0.43225	Prevotella stercorea
+39486	0.37688	Dorea formicigenerans
+301301	0.37232	Roseburia hominis
+28118	0.35862	Odoribacter splanchnicus
+820	0.34144	Bacteroides uniformis
+28129	0.34016	Prevotella denticola
+216816	0.3388	Bifidobacterium longum
+360807	0.33727	Roseburia inulinivorans
+116085	0.31664	Coprococcus catus
+143361	0.26796	Filifactor alocis
+454154	0.23355	Paraprevotella clara
+823	0.20411	Parabacteroides distasonis
+102148	0.19087	Solobacterium moorei
+487174	0.18412	Barnesiella intestinihominis
+46503	0.18183	Parabacteroides merdae
+357276	0.17401	Bacteroides dorei
+246787	0.16089	Bacteroides cellulosilyticus
+328813	0.13748	Alistipes onderdonkii
+291645	0.12562	Bacteroides nordii
+28117	0.12379	Alistipes putredinis
+214856	0.12089	Alistipes finegoldii
+100886	0.11879	Catenibacterium mitsuokai
+1680	0.0993	Bifidobacterium adolescentis
+410072	0.09662	Coprococcus comes
+35517	0.09352	[Eubacterium] brachy
+901	0.09068	Desulfovibrio piger
+33033	0.08796	Parvimonas micra
+1118061	0.08631	Alistipes obesi
+39490	0.08441	Eubacterium ramulus
+40518	0.06776	Ruminococcus bromii
+851	0.06362	Fusobacterium nucleatum
+371601	0.04518	Bacteroides xylanisolvens
+1304	0.04353	Streptococcus salivarius
+166486	0.03602	Roseburia intestinalis
+376804	0.03396	Bacteroides barnesiae
+46228	0.03224	Ruminococcus lactaris
+328812	0.03201	Parabacteroides goldsteinii
+56774	0.02849	[Eubacterium] infirmum
+1328	0.02656	Streptococcus anginosus
+569	0.01985	Hafnia alvei
+1255	0.01884	Pediococcus pentosaceus
+876	0.01679	Desulfovibrio desulfuricans
+658089	0.01661	Lachnospiraceae bacterium 5_1_63FAA
+487175	0.01437	Parasutterella excrementihominis
+1352	0.01383	Enterococcus faecium
+1288121	0.01287	Alistipes senegalensis
+469610	0.01261	Burkholderiales bacterium 1_1_47
+626932	0.01241	Alistipes indistinctus
+658087	0.01181	Lachnospiraceae bacterium 7_1_58FAA
+649756	0.01116	Anaerostipes hadrus
+154046	0.0109	Hungatella hathewayi
+52226	0.01029	Mitsuokella multacida
+562	0.00946	Escherichia coli
+1318	0.00784	Streptococcus parasanguinis
+39483	0.00769	Faecalitalea cylindroides
+454155	0.00755	Paraprevotella xylaniphila
+665950	0.00697	Lachnospiraceae bacterium 3_1_46FAA
+1382	0.00616	Atopobium parvulum
+419015	0.00464	Alloscardovia omnicolens
+33037	0.00353	Anaerococcus vaginalis
+106588	0.00324	Pseudoflavonifractor capillosus
+552398	0.00256	Ruminococcaceae bacterium D16
+446660	0.00204	Adlercreutzia equolifaciens
+674529	0.00191	Bacteroides faecis
+1535	0.00128	[Clostridium] leptum
+47678	0.00076	Bacteroides caccae
+1287640	0.00074	Anaerococcus obesiensis
+118748	0.00052	Bulleidia extructa
+-1	7.99359	Unknown

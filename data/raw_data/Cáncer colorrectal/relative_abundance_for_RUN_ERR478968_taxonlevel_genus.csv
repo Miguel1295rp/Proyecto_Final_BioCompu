@@ -1,0 +1,49 @@
+﻿#relative abundance information for RUN: undefined, at genus level
+#project_id: PRJEB6070
+#original_sample_description: Human stool sample
+#run_id: ERR478968
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2000
+#nr_reads_sequenced: 2554104
+#host_age: 67
+#sex: Male
+#BMI: 28
+#country: France
+#longitude: null
+#latitude: null
+#loaded_uid: 30005
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: Several bacterial species have been implicated in the development of colorectal carcinoma (CRC), but CRC-associated changes of fecal microbiota and their potential for cancer screening remain to be explored. Here we used metagenomic sequencing of fecal samples to identify taxonomic markers that distinguished CRC patients from tumor-free controls in a study population of 156 participants. Accuracy of metagenomic CRC detection was similar to the standard fecal occult blood test (FOBT) and when both approaches were combined, sensitivity improved >45% relative to the FOBT while maintaining its specificity. Accuracy of metagenomic CRC detection did not differ significantly between early and late-stage cancer and could be validated in independent patient and control populations (N=335) from different countries. CRC-associated changes in the fecal microbiome at least partially reflected microbial community composition at the tumor itself, indicating that observed gene pool differences may reveal tumor-related host-microbe interactions. Indeed, we deduced a metabolic shift from fiber degradation in controls to utilization of host carbohydrates and amino acids in CRC patients accompanied by an increase of lipopolysaccharide metabolism. 
+ncbi_taxon_id	relative_abundance	scientific_name
+816	42.3369	Bacteroides
+1730	10.204	Eubacterium
+1263	8.47328	Ruminococcus
+572511	6.8886	Blautia
+292632	5.13318	Subdoligranulum
+239759	4.17048	Alistipes
+33042	3.68803	Coprococcus
+189330	3.16159	Dorea
+397864	2.88094	Barnesiella
+375288	2.69995	Parabacteroides
+216851	1.91261	Faecalibacterium
+1257	1.86991	Peptostreptococcus
+283168	1.0355	Odoribacter
+1301	0.71146	Streptococcus
+561	0.45579	Escherichia
+848	0.43171	Fusobacterium
+830	0.41993	Butyrivibrio
+841	0.32776	Roseburia
+239934	0.31477	Akkermansia
+35832	0.28702	Bilophila
+838	0.26856	Prevotella
+1378	0.20273	Gemella
+29465	0.10671	Veillonella
+207244	0.09253	Anaerostipes
+2172	0.08869	Methanobrevibacter
+543311	0.05381	Parvimonas
+724	0.04932	Haemophilus
+191303	0.0473	Turicibacter
+416916	0.02614	Aggregatibacter
+165779	0.02258	Anaerococcus
+-1	1.63827	Unknown

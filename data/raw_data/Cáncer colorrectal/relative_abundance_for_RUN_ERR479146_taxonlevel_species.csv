@@ -1,0 +1,90 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB6070
+#original_sample_description: Human stool sample
+#run_id: ERR479146
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2000
+#nr_reads_sequenced: 9783879
+#host_age: 74
+#sex: Female
+#BMI: 19
+#country: France
+#longitude: null
+#latitude: null
+#loaded_uid: 29193
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: Several bacterial species have been implicated in the development of colorectal carcinoma (CRC), but CRC-associated changes of fecal microbiota and their potential for cancer screening remain to be explored. Here we used metagenomic sequencing of fecal samples to identify taxonomic markers that distinguished CRC patients from tumor-free controls in a study population of 156 participants. Accuracy of metagenomic CRC detection was similar to the standard fecal occult blood test (FOBT) and when both approaches were combined, sensitivity improved >45% relative to the FOBT while maintaining its specificity. Accuracy of metagenomic CRC detection did not differ significantly between early and late-stage cancer and could be validated in independent patient and control populations (N=335) from different countries. CRC-associated changes in the fecal microbiome at least partially reflected microbial community composition at the tumor itself, indicating that observed gene pool differences may reveal tumor-related host-microbe interactions. Indeed, we deduced a metabolic shift from fiber degradation in controls to utilization of host carbohydrates and amino acids in CRC patients accompanied by an increase of lipopolysaccharide metabolism. 
+ncbi_taxon_id	relative_abundance	scientific_name
+1681	15.3118	Bifidobacterium bifidum
+216816	9.29595	Bifidobacterium longum
+820	8.99996	Bacteroides uniformis
+562	6.97527	Escherichia coli
+33038	5.91561	[Ruminococcus] gnavus
+410072	5.25197	Coprococcus comes
+817	4.41356	Bacteroides fragilis
+28117	4.13666	Alistipes putredinis
+28116	3.69103	Bacteroides ovatus
+208479	3.31443	[Clostridium] bolteae
+292800	2.47788	Flavonifractor plautii
+46503	2.39486	Parabacteroides merdae
+154046	1.71992	Hungatella hathewayi
+246787	0.99888	Bacteroides cellulosilyticus
+1118060	0.88399	Enorma massiliensis phI
+333367	0.88252	[Clostridium] asparagiforme
+821	0.82443	Bacteroides vulgatus
+33039	0.67482	[Ruminococcus] torques
+31971	0.63729	[Eubacterium] dolichum
+1211819	0.61874	Holdemania massiliensis AP2
+457421	0.57204	Clostridiales bacterium 1_7_47FAA
+1579	0.556	Lactobacillus acidophilus
+1226323	0.49716	Oscillibacter sp. KLE 1745
+1689	0.46015	Bifidobacterium dentium
+658082	0.45354	Lachnospiraceae bacterium 2_1_58FAA
+358743	0.43017	[Clostridium] citroniae
+658086	0.36097	Lachnospiraceae bacterium 3_1_57FAA_CT1
+1512	0.31087	[Clostridium] symbiosum
+1598	0.27926	Lactobacillus reuteri
+1304	0.27664	Streptococcus salivarius
+1531	0.25763	[Clostridium] clostridioforme
+169435	0.19302	Anaerotruncus colihominis
+39488	0.17263	[Eubacterium] hallii
+1535	0.12144	[Clostridium] leptum
+53443	0.12121	Blautia hydrogenotrophica
+658088	0.1177	Lachnospiraceae bacterium 9_1_43BFAA
+658085	0.11112	Lachnospiraceae bacterium 5_1_57FAA
+35833	0.10498	Bilophila wadsworthia
+40520	0.10237	Blautia obeum
+328814	0.09157	Alistipes shahii
+239935	0.07234	Akkermansia muciniphila
+1547	0.05986	Erysipelatoclostridium ramosum
+665951	0.05857	Lachnospiraceae bacterium 8_1_57FAA
+658087	0.05472	Lachnospiraceae bacterium 7_1_58FAA
+29361	0.05368	Tyzzerella nexilis
+1694	0.04976	Bifidobacterium pseudolongum
+823	0.04517	Parabacteroides distasonis
+187326	0.04368	Megasphaera micronuciformis
+1604	0.03704	Lactobacillus amylovorus
+102148	0.03356	Solobacterium moorei
+33959	0.03077	Lactobacillus johnsonii
+33035	0.02859	Blautia producta
+1318	0.0251	Streptococcus parasanguinis
+29347	0.02133	[Clostridium] scindens
+1302	0.02122	Streptococcus gordonii
+469610	0.0195	Burkholderiales bacterium 1_1_47
+29466	0.01869	Veillonella parvula
+876	0.01542	Desulfovibrio desulfuricans
+487175	0.01469	Parasutterella excrementihominis
+658657	0.01304	Erysipelotrichaceae bacterium 21_3
+469614	0.01215	Erysipelotrichaceae bacterium 6_1_45
+853	0.01012	Faecalibacterium prausnitzii
+1660	0.00999	Actinomyces odontolyticus
+446660	0.00824	Adlercreutzia equolifaciens
+357276	0.00735	Bacteroides dorei
+230143	0.00393	Scardovia wiggsiae
+552398	0.00366	Ruminococcaceae bacterium D16
+84112	0.00303	Eggerthella lenta
+1382	0.00298	Atopobium parvulum
+106588	0.00266	Pseudoflavonifractor capillosus
+46506	0.00231	Bacteroides stercoris
+-1	14.2068	Unknown

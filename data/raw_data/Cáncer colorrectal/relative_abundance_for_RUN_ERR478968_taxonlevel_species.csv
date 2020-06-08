@@ -1,0 +1,82 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB6070
+#original_sample_description: Human stool sample
+#run_id: ERR478968
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2000
+#nr_reads_sequenced: 2554104
+#host_age: 67
+#sex: Male
+#BMI: 28
+#country: France
+#longitude: null
+#latitude: null
+#loaded_uid: 30005
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: Several bacterial species have been implicated in the development of colorectal carcinoma (CRC), but CRC-associated changes of fecal microbiota and their potential for cancer screening remain to be explored. Here we used metagenomic sequencing of fecal samples to identify taxonomic markers that distinguished CRC patients from tumor-free controls in a study population of 156 participants. Accuracy of metagenomic CRC detection was similar to the standard fecal occult blood test (FOBT) and when both approaches were combined, sensitivity improved >45% relative to the FOBT while maintaining its specificity. Accuracy of metagenomic CRC detection did not differ significantly between early and late-stage cancer and could be validated in independent patient and control populations (N=335) from different countries. CRC-associated changes in the fecal microbiome at least partially reflected microbial community composition at the tumor itself, indicating that observed gene pool differences may reveal tumor-related host-microbe interactions. Indeed, we deduced a metabolic shift from fiber degradation in controls to utilization of host carbohydrates and amino acids in CRC patients accompanied by an increase of lipopolysaccharide metabolism. 
+ncbi_taxon_id	relative_abundance	scientific_name
+820	12.3334	Bacteroides uniformis
+46228	8.22966	Ruminococcus lactaris
+39491	7.89457	[Eubacterium] rectale
+47678	7.8246	Bacteroides caccae
+821	7.49068	Bacteroides vulgatus
+204516	5.93187	Bacteroides massiliensis
+33039	5.00255	[Ruminococcus] torques
+487174	2.88094	Barnesiella intestinihominis
+357276	2.8261	Bacteroides dorei
+410072	2.81851	Coprococcus comes
+28117	2.65278	Alistipes putredinis
+88431	2.21883	Dorea longicatena
+46503	2.15539	Parabacteroides merdae
+853	1.91261	Faecalibacterium prausnitzii
+626929	1.89472	Bacteroides clarus
+40520	1.86836	Blautia obeum
+1261	1.28837	Peptostreptococcus anaerobius
+329854	1.25312	Bacteroides intestinalis
+328814	1.21011	Alistipes shahii
+818	1.13506	Bacteroides thetaiotaomicron
+39496	1.05125	Eubacterium ventriosum
+28118	1.0355	Odoribacter splanchnicus
+39486	0.94276	Dorea formicigenerans
+116085	0.86951	Coprococcus catus
+39485	0.77795	[Eubacterium] eligens
+261299	0.66717	Intestinibacter bartlettii
+1311	0.64258	Streptococcus agalactiae
+28116	0.61879	Bacteroides ovatus
+341694	0.58154	Peptostreptococcus stomatis
+817	0.47463	Bacteroides fragilis
+823	0.46722	Parabacteroides distasonis
+658081	0.46402	Lachnospiraceae bacterium 1_1_57FAA
+246787	0.46074	Bacteroides cellulosilyticus
+562	0.45579	Escherichia coli
+859	0.43171	Fusobacterium necrophorum
+45851	0.41993	Butyrivibrio crossotus
+658082	0.33794	Lachnospiraceae bacterium 2_1_58FAA
+39488	0.32179	[Eubacterium] hallii
+239935	0.31477	Akkermansia muciniphila
+360807	0.30417	Roseburia inulinivorans
+328813	0.28056	Alistipes onderdonkii
+28131	0.26856	Prevotella intermedia
+40518	0.24363	Ruminococcus bromii
+29391	0.20273	Gemella morbillorum
+39490	0.12249	Eubacterium ramulus
+665950	0.09636	Lachnospiraceae bacterium 3_1_46FAA
+649756	0.09253	Anaerostipes hadrus
+371601	0.07935	Bacteroides xylanisolvens
+29466	0.07804	Veillonella parvula
+328812	0.07734	Parabacteroides goldsteinii
+1328	0.05701	Streptococcus anginosus
+729	0.04932	Haemophilus parainfluenzae
+2173	0.04839	Methanobrevibacter smithii
+39492	0.03593	[Eubacterium] siraeum
+35833	0.03203	Bilophila wadsworthia
+1288121	0.02704	Alistipes senegalensis
+658089	0.02635	Lachnospiraceae bacterium 5_1_63FAA
+301301	0.02359	Roseburia hominis
+33037	0.02258	Anaerococcus vaginalis
+33038	0.0177	[Ruminococcus] gnavus
+291645	0.01385	Bacteroides nordii
+1304	0.01186	Streptococcus salivarius
+154288	0.00617	Turicibacter sanguinis
+-1	5.62463	Unknown

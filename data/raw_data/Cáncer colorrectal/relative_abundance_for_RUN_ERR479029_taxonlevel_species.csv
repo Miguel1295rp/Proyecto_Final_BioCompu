@@ -1,0 +1,90 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB6070
+#original_sample_description: Human stool sample
+#run_id: ERR479029
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2000
+#nr_reads_sequenced: 5427153
+#host_age: 51
+#sex: Male
+#BMI: 30
+#country: France
+#longitude: null
+#latitude: null
+#loaded_uid: 29935
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: Several bacterial species have been implicated in the development of colorectal carcinoma (CRC), but CRC-associated changes of fecal microbiota and their potential for cancer screening remain to be explored. Here we used metagenomic sequencing of fecal samples to identify taxonomic markers that distinguished CRC patients from tumor-free controls in a study population of 156 participants. Accuracy of metagenomic CRC detection was similar to the standard fecal occult blood test (FOBT) and when both approaches were combined, sensitivity improved >45% relative to the FOBT while maintaining its specificity. Accuracy of metagenomic CRC detection did not differ significantly between early and late-stage cancer and could be validated in independent patient and control populations (N=335) from different countries. CRC-associated changes in the fecal microbiome at least partially reflected microbial community composition at the tumor itself, indicating that observed gene pool differences may reveal tumor-related host-microbe interactions. Indeed, we deduced a metabolic shift from fiber degradation in controls to utilization of host carbohydrates and amino acids in CRC patients accompanied by an increase of lipopolysaccharide metabolism. 
+ncbi_taxon_id	relative_abundance	scientific_name
+239935	31.2991	Akkermansia muciniphila
+2173	12.0613	Methanobrevibacter smithii
+40518	7.20876	Ruminococcus bromii
+821	7.18435	Bacteroides vulgatus
+39483	5.92189	Faecalitalea cylindroides
+487174	4.04363	Barnesiella intestinihominis
+411489	3.03438	Clostridium sp. L2-50
+88431	1.72039	Dorea longicatena
+1308	1.64606	Streptococcus thermophilus
+39485	1.63519	[Eubacterium] eligens
+1680	1.63239	Bifidobacterium adolescentis
+47678	1.4267	Bacteroides caccae
+817	1.30921	Bacteroides fragilis
+823	1.24936	Parabacteroides distasonis
+341694	1.2102	Peptostreptococcus stomatis
+40520	1.16616	Blautia obeum
+1118060	1.01453	Enorma massiliensis phI
+46228	0.91313	Ruminococcus lactaris
+853	0.84941	Faecalibacterium prausnitzii
+216816	0.83198	Bifidobacterium longum
+33039	0.81402	[Ruminococcus] torques
+658081	0.77318	Lachnospiraceae bacterium 1_1_57FAA
+28118	0.66513	Odoribacter splanchnicus
+116085	0.56027	Coprococcus catus
+820	0.55048	Bacteroides uniformis
+1304	0.45492	Streptococcus salivarius
+1512	0.41664	[Clostridium] symbiosum
+1118061	0.37476	Alistipes obesi
+360807	0.26771	Roseburia inulinivorans
+376805	0.25947	Bacteroides salanitronis
+33033	0.24669	Parvimonas micra
+39488	0.23986	[Eubacterium] hallii
+562	0.21226	Escherichia coli
+487175	0.19094	Parasutterella excrementihominis
+649756	0.18285	Anaerostipes hadrus
+28111	0.15103	Bacteroides eggerthii
+818	0.14511	Bacteroides thetaiotaomicron
+39486	0.11306	Dorea formicigenerans
+194326	0.09067	Lactobacillus versmoldensis
+371601	0.07784	Bacteroides xylanisolvens
+39491	0.06747	[Eubacterium] rectale
+658087	0.06718	Lachnospiraceae bacterium 7_1_58FAA
+658089	0.05742	Lachnospiraceae bacterium 5_1_63FAA
+53443	0.05507	Blautia hydrogenotrophica
+28117	0.0488	Alistipes putredinis
+1318	0.04873	Streptococcus parasanguinis
+301301	0.04845	Roseburia hominis
+310297	0.0434	Bacteroides plebeius
+292800	0.03702	Flavonifractor plautii
+1343	0.03356	Streptococcus vestibularis
+102148	0.03194	Solobacterium moorei
+40519	0.03188	Ruminococcus callidus
+1736	0.03053	Eubacterium limosum
+28116	0.02413	Bacteroides ovatus
+35833	0.02259	Bilophila wadsworthia
+328814	0.02039	Alistipes shahii
+39496	0.02037	Eubacterium ventriosum
+1328	0.01927	Streptococcus anginosus
+214851	0.0178	Subdoligranulum variabile
+113107	0.01615	Streptococcus australis
+665950	0.01567	Lachnospiraceae bacterium 3_1_46FAA
+1535	0.01425	[Clostridium] leptum
+626932	0.01322	Alistipes indistinctus
+28037	0.01102	Streptococcus mitis
+106588	0.01085	Pseudoflavonifractor capillosus
+261299	0.00517	Intestinibacter bartlettii
+166486	0.00416	Roseburia intestinalis
+1599	0.00352	Lactobacillus sakei
+208479	0.0033	[Clostridium] bolteae
+471189	0.0019	Gordonibacter pamelaeae
+1358	0.00105	Lactococcus lactis
+-1	5.0288	Unknown
