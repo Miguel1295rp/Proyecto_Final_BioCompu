@@ -1,4 +1,4 @@
-Especie	relative_abundance1	relative_abundance2	relative_abundance3	relative_abundance4	relative_abundance5	relative_abundance6	relative_abundance7	relative_abundance8	relative_abundance9
+Especie	ERR475482	ERR47553	ERR378968	ERR479011	ERR479024	ERR479029	ERR479037	ERR479065	ERR479146
 [Bacteroides] pectinophilus	0	0	0	1.60663	0	0	0.04878	0	0.88252
 [Clostridium] asparagiforme	0	0	0	0.0355	0	0	0	0	0
 [Clostridium] bolteae	0.0277363	0.0149514	0	0.19559	0	0.0033	0.05869	0	3.31443
@@ -625,4 +625,4 @@ Veillonella ratti	0	0.000467231	0	0	0	0	0	0	0
 Victivallis sp. MC_44	0.00132078	0.000467231	0	0	0	0	0	0	0
 Virgibacillus sp. YIM C510	0	0.000467231	0	0	0	0	0	0	0
 Viridibacillus arvi	0.00132078	0	0	0	0	0	0	0	0
-#¡REF!	0.00528311	0.00186892	0	0	0	0	0	0	0
+Zymomonas mobilis	0.00528311	0.00186892	0	0	0	0	0	0	0
