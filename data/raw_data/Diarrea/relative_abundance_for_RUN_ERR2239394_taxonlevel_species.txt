@@ -1,0 +1,43 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has Diarrhea Type 5 6 7
+#run_id: ERR2239394
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2500
+#nr_reads_sequenced: 659422
+#host_age: 64
+#sex: Male
+#BMI: 23.15
+#country: United Kingdom
+#longitude: -2
+#latitude: 53.5
+#loaded_uid: 40059
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+562	55.2547	Escherichia coli
+296	6.96261	Pseudomonas fragi
+571	2.16399	Klebsiella oxytoca
+39491	1.71665	[Eubacterium] rectale
+301301	1.44642	Roseburia hominis
+40518	1.36233	Ruminococcus bromii
+46503	1.17298	Parabacteroides merdae
+357276	1.05876	Bacteroides dorei
+47678	0.96723	Bacteroides caccae
+853	0.96395	Faecalibacterium prausnitzii
+820	0.6309	Bacteroides uniformis
+165179	0.53891	Prevotella copri
+818	0.32947	Bacteroides thetaiotaomicron
+204516	0.24262	Bacteroides massiliensis
+100886	0.21401	Catenibacterium mitsuokai
+39485	0.18886	[Eubacterium] eligens
+46506	0.17759	Bacteroides stercoris
+821	0.17467	Bacteroides vulgatus
+218538	0.15711	Dialister invisus
+823	0.08499	Parabacteroides distasonis
+28116	0.02162	Bacteroides ovatus
+40520	0.018	Blautia obeum
+454155	0.01789	Paraprevotella xylaniphila
+46228	0.01492	Ruminococcus lactaris
+-1	24.1188	Unknown

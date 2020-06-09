@@ -1,0 +1,48 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has Diarrhea Type 5 6 7
+#run_id: ERR2239391
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2500
+#nr_reads_sequenced: 1070914
+#host_age: 53
+#sex: Male
+#BMI: 22.63
+#country: Germany
+#longitude: 8.3
+#latitude: 50
+#loaded_uid: 39949
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+562	69.6896	Escherichia coli
+39491	2.35354	[Eubacterium] rectale
+296	2.15091	Pseudomonas fragi
+28111	1.37223	Bacteroides eggerthii
+1680	1.34272	Bifidobacterium adolescentis
+821	0.79131	Bacteroides vulgatus
+239935	0.74247	Akkermansia muciniphila
+360807	0.68134	Roseburia inulinivorans
+218538	0.65307	Dialister invisus
+853	0.55249	Faecalibacterium prausnitzii
+39485	0.53363	[Eubacterium] eligens
+820	0.41824	Bacteroides uniformis
+729	0.28488	Haemophilus parainfluenzae
+39496	0.25073	Eubacterium ventriosum
+204516	0.2314	Bacteroides massiliensis
+1351	0.22864	Enterococcus faecalis
+338188	0.22103	Bacteroides finegoldii
+28116	0.21608	Bacteroides ovatus
+216816	0.20945	Bifidobacterium longum
+47678	0.16394	Bacteroides caccae
+39488	0.14209	[Eubacterium] hallii
+487174	0.12284	Barnesiella intestinihominis
+818	0.09286	Bacteroides thetaiotaomicron
+328813	0.08217	Alistipes onderdonkii
+40520	0.06822	Blautia obeum
+74426	0.04533	Collinsella aerofaciens
+46503	0.03962	Parabacteroides merdae
+1681	0.02678	Bifidobacterium bifidum
+1118061	0.00657	Alistipes obesi
+-1	16.2859	Unknown

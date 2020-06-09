@@ -1,0 +1,70 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has Inflammatory Bowel Disease,Liver Diseases,Diarrhea Type 5 6 7
+#run_id: ERR2242500
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2500
+#nr_reads_sequenced: 3021256
+#host_age: 32
+#sex: Male
+#BMI: 22.05
+#country: United States of America
+#longitude: -71
+#latitude: 42.3
+#loaded_uid: 37465
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+218538	27.1027	Dialister invisus
+39491	15.1485	[Eubacterium] rectale
+74426	6.25576	Collinsella aerofaciens
+853	5.87651	Faecalibacterium prausnitzii
+820	5.73316	Bacteroides uniformis
+410072	4.34542	Coprococcus comes
+39485	3.32951	[Eubacterium] eligens
+47678	3.02084	Bacteroides caccae
+28026	2.89039	Bifidobacterium pseudocatenulatum
+165179	1.95224	Prevotella copri
+28117	1.75543	Alistipes putredinis
+1735	1.52743	Holdemanella biformis
+1318	1.4815	Streptococcus parasanguinis
+357276	1.46959	Bacteroides dorei
+1304	1.33057	Streptococcus salivarius
+28116	0.82117	Bacteroides ovatus
+1681	0.81844	Bifidobacterium bifidum
+88431	0.73222	Dorea longicatena
+46503	0.70149	Parabacteroides merdae
+40520	0.62021	Blautia obeum
+823	0.59393	Parabacteroides distasonis
+166486	0.46486	Roseburia intestinalis
+658089	0.45326	Lachnospiraceae bacterium 5_1_63FAA
+301301	0.41276	Roseburia hominis
+821	0.41021	Bacteroides vulgatus
+216816	0.37179	Bifidobacterium longum
+1118061	0.33512	Alistipes obesi
+39486	0.30548	Dorea formicigenerans
+649756	0.27115	Anaerostipes hadrus
+39488	0.25443	[Eubacterium] hallii
+1352	0.24696	Enterococcus faecium
+818	0.21274	Bacteroides thetaiotaomicron
+1308	0.15378	Streptococcus thermophilus
+665950	0.15369	Lachnospiraceae bacterium 3_1_46FAA
+246787	0.14171	Bacteroides cellulosilyticus
+360807	0.1295	Roseburia inulinivorans
+33039	0.11725	[Ruminococcus] torques
+113107	0.10174	Streptococcus australis
+39490	0.09327	Eubacterium ramulus
+665951	0.06899	Lachnospiraceae bacterium 8_1_57FAA
+658082	0.05192	Lachnospiraceae bacterium 2_1_58FAA
+292800	0.03573	Flavonifractor plautii
+658655	0.03482	Lachnospiraceae bacterium 1_4_56FAA
+33038	0.03469	[Ruminococcus] gnavus
+116085	0.02312	Coprococcus catus
+658086	0.019	Lachnospiraceae bacterium 3_1_57FAA_CT1
+658087	0.01845	Lachnospiraceae bacterium 7_1_58FAA
+1305	0.01533	Streptococcus sanguinis
+333367	0.01137	[Clostridium] asparagiforme
+371601	0.00559	Bacteroides xylanisolvens
+43675	0.00259	Rothia mucilaginosa
+-1	7.54175	Unknown

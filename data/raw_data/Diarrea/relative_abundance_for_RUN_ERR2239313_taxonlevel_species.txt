@@ -1,0 +1,61 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has Migraine Disorders,Diarrhea Type 5 6 7
+#run_id: ERR2239313
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2500
+#nr_reads_sequenced: 1607706
+#host_age: 31
+#sex: Male
+#BMI: 21.91
+#country: United States of America
+#longitude: -117.2
+#latitude: 32.7
+#loaded_uid: 39951
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+28117	9.39482	Alistipes putredinis
+46506	8.4913	Bacteroides stercoris
+820	8.06789	Bacteroides uniformis
+204516	6.34612	Bacteroides massiliensis
+821	6.23291	Bacteroides vulgatus
+487174	5.32066	Barnesiella intestinihominis
+751585	4.7374	Coprococcus sp. ART55/1
+40545	4.44787	Sutterella wadsworthensis
+239935	4.42149	Akkermansia muciniphila
+853	4.00285	Faecalibacterium prausnitzii
+246787	3.67536	Bacteroides cellulosilyticus
+338188	3.51541	Bacteroides finegoldii
+357276	2.38821	Bacteroides dorei
+46503	2.14802	Parabacteroides merdae
+328814	1.77441	Alistipes shahii
+360807	1.70142	Roseburia inulinivorans
+28116	1.57268	Bacteroides ovatus
+823	1.5498	Parabacteroides distasonis
+39485	1.46971	[Eubacterium] eligens
+1118061	1.33866	Alistipes obesi
+39491	1.22963	[Eubacterium] rectale
+1680	1.17676	Bifidobacterium adolescentis
+40518	1.1656	Ruminococcus bromii
+47678	1.06197	Bacteroides caccae
+818	0.9096	Bacteroides thetaiotaomicron
+454154	0.80844	Paraprevotella clara
+328813	0.76371	Alistipes onderdonkii
+371601	0.68853	Bacteroides xylanisolvens
+166486	0.58851	Roseburia intestinalis
+329854	0.45826	Bacteroides intestinalis
+665950	0.42935	Lachnospiraceae bacterium 3_1_46FAA
+216816	0.36631	Bifidobacterium longum
+387661	0.35855	Parabacteroides johnsonii
+1304	0.35584	Streptococcus salivarius
+39488	0.32736	[Eubacterium] hallii
+410072	0.25787	Coprococcus comes
+74426	0.17634	Collinsella aerofaciens
+45851	0.11816	Butyrivibrio crossotus
+454155	0.09452	Paraprevotella xylaniphila
+658081	0.06236	Lachnospiraceae bacterium 1_1_57FAA
+39492	0.0435	[Eubacterium] siraeum
+40520	0.02379	Blautia obeum
+-1	5.93805	Unknown

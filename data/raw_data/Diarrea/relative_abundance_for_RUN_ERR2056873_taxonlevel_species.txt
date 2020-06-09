@@ -1,0 +1,169 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has Diarrhea Type 5 6 7
+#run_id: ERR2056873
+#experiment_type: Amplicon
+#instrument_model: Illumina MiSeq
+#nr_reads_sequenced: 37164
+#host_age: 25
+#sex: Male
+#BMI: 24.68
+#country: United States of America
+#longitude: -89.4
+#latitude: 31.3
+#loaded_uid: 46716
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+293	0.00641684	Brevundimonas diminuta
+36847	0.24384	[Clostridium] neopropionicum
+183	0.00320842	Leptonema illini
+341225	0.0320842	[Clostridium] saccharogumia
+376804	0.0128337	Bacteroides barnesiae
+31909	0.00320842	Halothermothrix orenii
+290053	0.0192505	Bacteroides helcogenes
+817	0.340092	Bacteroides fragilis
+40520	0.208547	Blautia obeum
+1463840	0.00320842	Streptomyces sp. NRRL F-2305
+437898	0.314425	Sutterella parvirubra
+301301	0.0930441	Roseburia hominis
+36874	0.00320842	Porphyromonas cangingivalis
+839	0.0192505	Prevotella ruminicola
+1404	0.00320842	Bacillus megaterium
+39778	0.0128337	Veillonella dispar
+884684	0.00320842	Mageeibacillus indolicus
+1547	0.0160421	Erysipelatoclostridium ramosum
+28117	0.0192505	Alistipes putredinis
+1535	0.0320842	[Clostridium] leptum
+357276	0.099461	Bacteroides dorei
+97253	0.0128337	Eubacterium plexicaudatum
+821	37.346	Bacteroides vulgatus
+202955	0.00320842	Acinetobacter tjernbergiae
+328814	0.12192	Alistipes shahii
+28119	0.00962526	Bacteroides zoogleoformans
+28037	0.0192505	Streptococcus mitis
+291644	0.00320842	Bacteroides salyersiae
+84112	0.0192505	Eggerthella lenta
+502558	0.00320842	Eggerthella sp. YY7918
+818	3.69289	Bacteroides thetaiotaomicron
+29430	0.00320842	Acinetobacter haemolyticus
+40518	3.80518	Ruminococcus bromii
+165179	0.0192505	Prevotella copri
+40214	0.0224589	Acinetobacter johnsonii
+52787	0.00320842	Anaerofilum pentosovorans
+33039	0.0288758	[Ruminococcus] torques
+310298	0.0160421	Bacteroides coprocola
+371601	0.0930441	Bacteroides xylanisolvens
+823	0.0160421	Parabacteroides distasonis
+626930	0.269507	Bacteroides fluxus
+243924	0.00320842	Pseudomonas lutea
+246787	0.0449179	Bacteroides cellulosilyticus
+189722	0.00320842	Prevotella marshii
+253245	0.00320842	Owenweeksia hongkongensis
+282125	0.00320842	Sutterella sanguinus
+29466	0.0224589	Veillonella parvula
+39486	0.266299	Dorea formicigenerans
+376806	0.00962526	Bacteroides gallinarum
+691816	0.00320842	Bacteroides rodentium
+1671366	0.00641684	Ruminococcus sp. DSM 100440
+37658	0.00320842	[Clostridium] populeti
+1660	0.00320842	Actinomyces odontolyticus
+39485	0.635267	[Eubacterium] eligens
+29389	0.00641684	Streptococcus alactolyticus
+645466	0.0449179	Anaerostipes butyraticus
+1694	0.00320842	Bifidobacterium pseudolongum
+1532	0.0192505	Blautia coccoides
+69825	0.26309	[Clostridium] indolis
+1582	0.0545431	Lactobacillus casei
+39484	0.198922	Eubacterium desmolans
+671267	0.00962526	Bacteroides sartorii
+1755626	10.729	Faecalibacterium sp. MC_41
+29375	0.0192505	[Clostridium] xylanolyticum
+1590	0.00320842	Lactobacillus plantarum
+78343	0.00641684	Bifidobacterium boum
+33035	0.118712	Blautia producta
+216816	0.115503	Bifidobacterium longum
+28135	0.00320842	Prevotella oris
+84030	0.157213	[Clostridium] saccharolyticum
+35760	0.00320842	Bifidobacterium choerinum
+39490	0.0737936	Eubacterium ramulus
+591197	0.00641684	Ignavibacterium album
+151276	0.0770021	Bacteroides coprosuis
+218538	0.753978	Dialister invisus
+1680	0.0545431	Bifidobacterium adolescentis
+28116	4.43724	Bacteroides ovatus
+574930	0.00641684	Parabacteroides gordonii
+29360	0.0224589	Cellulosilyticum lentocellum
+1681	0.0256674	Bifidobacterium bifidum
+28118	0.00320842	Odoribacter splanchnicus
+1358	0.0128337	Lactococcus lactis
+28111	0.0160421	Bacteroides eggerthii
+29348	0.442762	[Clostridium] spiroforme
+239935	0.00641684	Akkermansia muciniphila
+649724	0.00320842	Clostridium sp. ATCC BAA-442
+329854	0.0192505	Bacteroides intestinalis
+1597	0.0224589	Lactobacillus paracasei
+61435	0.0160421	Dehalococcoides mccartyi
+105841	0.0545431	Anaerostipes caccae
+185293	0.00641684	Prevotella oryzae
+185008	0.00320842	Butyrivibrio hungatei
+29370	0.00962526	[Clostridium] sphenoides
+39491	0.0192505	[Eubacterium] rectale
+43675	0.00641684	Rothia mucilaginosa
+86664	0.00320842	Bacillus flexus
+133453	0.00320842	Caldilinea aerophila
+28446	0.272716	[Clostridium] propionicum
+562	0.00320842	Escherichia coli
+1685	0.0866273	Bifidobacterium breve
+1133319	0.00320842	Bacteroides reticulotermitis
+732242	0.00962526	Bacteroides paurosaccharolyticus
+1282	0.00320842	Staphylococcus epidermidis
+-1	15.3523	Unknown
+762210	0.00641684	Bifidobacterium saguini
+1465754	0.00320842	Alistipes timonensis
+166486	0.0352926	Roseburia intestinalis
+69824	0.00320842	[Clostridium] cocleatum
+78342	0.00641684	Bifidobacterium gallicum
+28454	0.00320842	Sphingobacterium multivorum
+1755607	0.0320842	Bacteroides sp. MC_16
+290055	0.00320842	[Eubacterium] fissicatena
+1303	0.00641684	Streptococcus oralis
+288965	0.00641684	[Clostridium] clariflavum
+204516	0.154004	Bacteroides massiliensis
+1385389	0.00320842	Streptococcus sp. MR-1951
+410072	0.00320842	Coprococcus comes
+1308	0.221381	Streptococcus thermophilus
+46506	10.9215	Bacteroides stercoris
+762211	0.00320842	Bifidobacterium stellenboschense
+84032	0.00320842	[Clostridium] thermosuccinogenes
+1343	0.00320842	Streptococcus vestibularis
+35785	0.00320842	Clostridium maximum
+729	0.00320842	Haemophilus parainfluenzae
+171523	0.00320842	Lactobacillus pantheris
+1515	0.0352926	Ruminiclostridium thermocellum
+1512	0.0192505	[Clostridium] symbiosum
+261299	0.00320842	Intestinibacter bartlettii
+208479	0.038501	[Clostridium] bolteae
+1113650	0.0481263	Sphingobacterium sp. NBRC 15340
+351091	0.224589	Oscillibacter valericigenes
+536633	1.14541	Blautia glucerasea
+169435	0.00641684	Anaerotruncus colihominis
+122355	0.00962526	Pseudomonas psychrophila
+1114067	0.00320842	Weissella sp. NBRC 107245
+871325	0.00962526	Bacteroides faecichinchillae
+33043	0.0128337	Coprococcus eutactus
+1527	0.00641684	Anaerocolumna aminovalerica
+37930	0.00320842	Glutamicibacter protophormiae
+31971	0.00962526	[Eubacterium] dolichum
+260337	0.00320842	beta proteobacterium HTCC379
+44749	0.00320842	Sporobacter termitidis
+310297	0.00320842	Bacteroides plebeius
+882211	0.00320842	Pseudomonas deceptionensis
+291645	0.0128337	Bacteroides nordii
+47678	1.59458	Bacteroides caccae
+39496	0.616016	Eubacterium ventriosum
+167964	0.0224589	Anaerolinea thermophila
+392838	0.0288758	Bacteroides propionicifaciens
+33038	0.205339	[Ruminococcus] gnavus
+820	2.90683	Bacteroides uniformis

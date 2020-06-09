@@ -1,0 +1,50 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has Diarrhea Type 5 6 7
+#run_id: ERR2239357
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2500
+#nr_reads_sequenced: 1205511
+#host_age: 31
+#sex: Male
+#BMI: 19.15
+#country: United Kingdom
+#longitude: -0.2
+#latitude: 51.6
+#loaded_uid: 40024
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+357276	26.3562	Bacteroides dorei
+165179	17.5602	Prevotella copri
+218538	14.3662	Dialister invisus
+47678	10.4796	Bacteroides caccae
+39491	5.30789	[Eubacterium] rectale
+28116	4.4655	Bacteroides ovatus
+338188	4.23346	Bacteroides finegoldii
+33039	1.70261	[Ruminococcus] torques
+291644	1.23071	Bacteroides salyersiae
+387661	1.09978	Parabacteroides johnsonii
+853	1.08391	Faecalibacterium prausnitzii
+626932	1.04004	Alistipes indistinctus
+39496	0.93682	Eubacterium ventriosum
+40545	0.69291	Sutterella wadsworthensis
+820	0.56995	Bacteroides uniformis
+817	0.55887	Bacteroides fragilis
+658081	0.54351	Lachnospiraceae bacterium 1_1_57FAA
+454154	0.35396	Paraprevotella clara
+818	0.34219	Bacteroides thetaiotaomicron
+328813	0.30584	Alistipes onderdonkii
+214856	0.27254	Alistipes finegoldii
+626929	0.23532	Bacteroides clarus
+28111	0.22288	Bacteroides eggerthii
+1680	0.21729	Bifidobacterium adolescentis
+1735	0.16909	Holdemanella biformis
+371601	0.163	Bacteroides xylanisolvens
+74426	0.11583	Collinsella aerofaciens
+360807	0.10654	Roseburia inulinivorans
+88431	0.08255	Dorea longicatena
+674529	0.07991	Bacteroides faecis
+823	0.0465	Parabacteroides distasonis
+-1	5.05851	Unknown

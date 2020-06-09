@@ -1,0 +1,53 @@
+﻿#relative abundance information for RUN: undefined, at species level
+#project_id: PRJEB11419
+#original_sample_description: American Gut Project Stool Sample which has Lung Diseases,Diarrhea Type 5 6 7
+#run_id: ERR2239366
+#experiment_type: Metagenomics
+#instrument_model: Illumina HiSeq 2500
+#nr_reads_sequenced: 1482582
+#host_age: 33
+#sex: Female
+#BMI: 31.59
+#country: United Kingdom
+#longitude: -0.1
+#latitude: 51.5
+#loaded_uid: 40005
+#QCStatus: 1
+#QCMessage: 
+#Original_Project_description: The American Gut project is the largest crowdsourced citizen science project to date. Fecal, oral, skin, and other body site samples collected from thousands of participants represent the largest human microbiome cohort in existence. Detailed health and lifestyle and diet data associated with each sample is enabling us to deeply examine associations between the human microbiome and factors such as diet (from vegan to near carnivore and everything in between), season, amount of sleep, and disease states such as IBD, diabetes, or autism spectrum disorder-as well as many other factors not listed here. The American Gut project also encompasses the British Gut and Australian Gut projects, widening the cohort beyond North America. As the project continues to grow, we will be able to identify significant associations that would not be possible with smaller, geographically and health/disease status-limited cohorts.
+ncbi_taxon_id	relative_abundance	scientific_name
+562	42.397	Escherichia coli
+310298	10.2348	Bacteroides coprocola
+204516	6.4133	Bacteroides massiliensis
+39492	6.39034	[Eubacterium] siraeum
+310297	5.57515	Bacteroides plebeius
+820	3.30855	Bacteroides uniformis
+28117	2.41846	Alistipes putredinis
+296	1.74164	Pseudomonas fragi
+39491	1.63543	[Eubacterium] rectale
+823	1.42376	Parabacteroides distasonis
+821	1.3756	Bacteroides vulgatus
+291644	1.24402	Bacteroides salyersiae
+46228	1.18442	Ruminococcus lactaris
+239935	1.02381	Akkermansia muciniphila
+28111	0.88188	Bacteroides eggerthii
+328814	0.79466	Alistipes shahii
+626932	0.79187	Alistipes indistinctus
+46503	0.68661	Parabacteroides merdae
+1118061	0.64962	Alistipes obesi
+853	0.60637	Faecalibacterium prausnitzii
+214856	0.51043	Alistipes finegoldii
+88431	0.49168	Dorea longicatena
+39496	0.45535	Eubacterium ventriosum
+40324	0.435	Stenotrophomonas maltophilia
+454154	0.40028	Paraprevotella clara
+357276	0.39956	Bacteroides dorei
+487174	0.27669	Barnesiella intestinihominis
+546	0.25357	Citrobacter freundii
+39488	0.20205	[Eubacterium] hallii
+39485	0.08236	[Eubacterium] eligens
+818	0.07512	Bacteroides thetaiotaomicron
+61645	0.04234	Enterobacter asburiae
+1288121	0.04024	Alistipes senegalensis
+47678	0.02838	Bacteroides caccae
+-1	5.52964	Unknown
