@@ -1,4 +1,4 @@
-Especie	ERR475482	ERR47553	ERR378968	ERR479011	ERR479024	ERR479029	ERR479037	ERR479065	ERR479146	ERR479147
+Especie	relative_abundance1	relative_abundance2	relative_abundance3	relative_abundance4	relative_abundance5	relative_abundance6	relative_abundance7	relative_abundance8	relative_abundance9	relative_abundance10
 [Bacteroides] pectinophilus	0	0	0	1.60663	0	0	0.04878	0	0.88252	0
 [Clostridium] asparagiforme	0	0	0	0.0355	0	0	0	0	0	0
 [Clostridium] bolteae	0.0277363	0.0149514	0	0.19559	0	0.0033	0.05869	0	3.31443	0.00409
@@ -25,7 +25,6 @@ Especie	ERR475482	ERR47553	ERR378968	ERR479011	ERR479024	ERR479029	ERR479037	ERR
 [Clostridium] saccharogumia	0.355289	1.39141	0	0	0	0	0	0	0	0
 [Clostridium] saccharolyticum	0.0633973	0.0397146	0	0	0	0	0	0	0	0
 [Clostridium] scindens	0.0224532	0.00794292	0	0.00826	0	0	0	0	0.02133	0
-[Clostridium] scindens	0	0	0	0	0	0	0	0	0	0
 [Clostridium] sphenoides	0.108304	0.0214926	0	0	0	0	0	0	0	0
 [Clostridium] spiroforme	0.328874	1.53906	0	0	0	0	0	0	0	0
 [Clostridium] stercorarium	0	0.174744	0	0	0	0	0	0	0	0
