@@ -325,7 +325,6 @@ Peptoniphilus ivorii	0	0	0	0.0187905	0	0	0	0	0	0
 Peptoniphilus lacrimalis	0	0	0	0.00939526	0	0	0	0	0	0
 Peptoniphilus sp. JCM 8141	0	0	0	0.0908208	0	0	0	0	0	0
 Peptoniphilus sp. JCM 8143	0	0	0	0.00939526	0	0	0	0	0	0
-Peptostreptococcus stomatis	0	0	0	0	0	0	0	0	0	0
 Porphyromonas asaccharolytica	0.00510386	0	0	0.0219223	0	0	0	0	0	0
 Porphyromonas cangingivalis	0.00510386	0	0.00320842	0.012527	0	0	0	0	0	0
 Porphyromonas circumdentaria	0.0076558	0	0	0.0187905	0	0	0	0	0	0
