@@ -246,3 +246,30 @@ plt.savefig("Closesness.png", dpi= 100)
 files.download("Closesness.png") 
 
 plt.plot()
+
+
+#Calcular los valores de coeficiente de las medidas de centralidad y grado (centralidad de grado, betweenneess y closeness
+f = nx.Graph()                #quitamos nodos con grado 0 para evitar problemas con el código                  
+fedges = filter(lambda x: G.degree()[x[0]] > 0 and G.degree()[x[1]] > 0, G.edges()) 
+f.add_edges_from(fedges) )
+   
+#calculo de grado mayor de los nodos
+nx.degree(f)
+GG= nx.degree(f)
+sorted(grados)
+
+#calculo de centralidad de grado
+nx.degree_centrality(f)
+DC = nx.degree_centrality(f).values()
+sorted(DC)
+
+#calculo de betweenneess centrality
+nx.betweenness_centrality(f)
+BT = np.array(list(nx.betweenness_centrality(f).values()))
+sorted(BT)
+
+
+#calculo de closeness centrality
+nx.closeness_centrality(f)
+CS= np.array(list(nx.closeness_centrality(f).values()))
+sorted(CS)
